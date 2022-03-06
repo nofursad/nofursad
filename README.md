@@ -1,4 +1,4 @@
-<p align="center"><a href="https://nofursad.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+# Hi, I'm Abhisek 👋🏾 💻
 
 <br />
 
@@ -27,7 +27,3 @@ I'm a Full Stack Software developer from UK.🇳
 
 <br />
 <br />
-
-<a href="https://twitter.com/nofursad">
-  <img align="right" alt="Abhisek Joshi | Twitter" width="21px" src="https://raw.githubusercontent.com/nofursad/nofursad/master/assets/twitter.svg" />
-</a>
